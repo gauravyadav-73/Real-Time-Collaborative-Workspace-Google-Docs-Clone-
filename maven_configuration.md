@@ -5,3 +5,4 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
     <artifactId>collaborative-editor</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
